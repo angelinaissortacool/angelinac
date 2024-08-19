@@ -1,4 +1,4 @@
-# Angelina's Game Development Portfolio
+# $${\color{lightblue}Angelina's \space Game \space Development \space Portfolio}$$
 ```diff
 - first year game developer, 17 years old, senior, artist, and casual coder.
 
